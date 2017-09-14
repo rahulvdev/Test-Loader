@@ -1,0 +1,2 @@
+F:\SMA resources\LoadingTests\LoadingTests\bin\Debug\LoadingTests.exe.config
+F:\SMA resources\TestLoader\LoadingTests\bin\Debug\LoadingTests.exe.config
